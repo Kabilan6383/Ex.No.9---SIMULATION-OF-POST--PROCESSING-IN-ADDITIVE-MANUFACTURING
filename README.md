@@ -1,7 +1,5 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
-
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -34,21 +32,22 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2025-05-28 005820](https://github.com/user-attachments/assets/a5c0de07-255d-46e7-a920-1e8c67340978)
+![Screenshot 2025-05-28 005826](https://github.com/user-attachments/assets/f57e60f5-8c3b-4c0c-93ca-926631f06343)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2025-05-28 005835](https://github.com/user-attachments/assets/02ed2fe6-5ef7-4106-a68c-5cc4660bf316)
+![Screenshot 2025-05-28 005842](https://github.com/user-attachments/assets/ec362888-1c53-4a5e-bdef-cb9c859f5778)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2025-05-28 005856](https://github.com/user-attachments/assets/1c2332c5-1aa7-4687-be5d-66e5c2a5a22c)
+![Screenshot 2025-05-28 005905](https://github.com/user-attachments/assets/9c4b0270-aab1-4fe9-9fde-1d66275185d8)
 
-## Output:
 
-### Name:
-### Register Number:
+### Name:KABILAN.P
+### Register Number:212224040145
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
